@@ -47,4 +47,4 @@ workoutSchema.methods.totalTime = function () {
 
 const Workout = mongoose.model("Workout", workoutSchema);
 
-module.exports = Workout
+module.exports = Workout;
